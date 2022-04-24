@@ -1,0 +1,22 @@
+body {
+  height: 100%;
+  background-color: rgb(86, 81, 81);
+  background-image: url(./hero-bcg.jpeg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+h1 {
+  text-align: center;
+  font-size: 5rem;
+  font-family: 'Times New Roman', Times, serif;
+  color: rgb(255, 255, 255);
+  padding: auto;
+}
+p {
+  text-align: center;
+  font-size: 1.2rem;
+  color: rgb(229, 218, 218);
+  font-weight: 400;
+}
