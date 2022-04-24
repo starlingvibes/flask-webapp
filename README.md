@@ -3,6 +3,8 @@ A simple web-app built using Python's Flask framework with the ability to displa
 
 ![final look](https://github.com/starlingvibes/flask-webapp/blob/main/final.png?raw=true)
 
+## Video Demo
+[don't believe me?](https://drive.google.com/file/d/1p1JRWG6ZgxjzIfg-ydBI3aKLXH0ZTMLD/view?usp=sharing)
 ## Quick start
 Install flask globally
 ```sh
